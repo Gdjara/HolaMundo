@@ -1,0 +1,8 @@
+C:\Users\jimmy\source\repos\AndreSebástianJaraGustavoEjer2.2Prac1\bin\Debug\AndreSebástianJaraGustavoEjer2.2Prac1.exe.config
+C:\Users\jimmy\source\repos\AndreSebástianJaraGustavoEjer2.2Prac1\bin\Debug\AndreSebástianJaraGustavoEjer2.2Prac1.exe
+C:\Users\jimmy\source\repos\AndreSebástianJaraGustavoEjer2.2Prac1\bin\Debug\AndreSebástianJaraGustavoEjer2.2Prac1.pdb
+C:\Users\jimmy\source\repos\AndreSebástianJaraGustavoEjer2.2Prac1\obj\Debug\AndreSebástianJaraGustavoEjer2.2Prac1.csproj.AssemblyReference.cache
+C:\Users\jimmy\source\repos\AndreSebástianJaraGustavoEjer2.2Prac1\obj\Debug\AndreSebástianJaraGustavoEjer2.2Prac1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jimmy\source\repos\AndreSebástianJaraGustavoEjer2.2Prac1\obj\Debug\AndreSebástianJaraGustavoEjer2.2Prac1.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\source\repos\AndreSebástianJaraGustavoEjer2.2Prac1\obj\Debug\AndreSebástianJaraGustavoEjer2.2Prac1.exe
+C:\Users\jimmy\source\repos\AndreSebástianJaraGustavoEjer2.2Prac1\obj\Debug\AndreSebástianJaraGustavoEjer2.2Prac1.pdb
